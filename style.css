@@ -1,0 +1,75 @@
+.common-color{
+    color: #21B573;
+}
+
+header{
+    background-color: #F0FFF0;
+}
+.logo img{
+    width: 198px;
+}
+.nav-margin{
+    margin-left: 25px;
+}
+.btn-green{
+    background-color: #21B573;
+    color: white;
+    border-radius: 33px;
+}
+.signInBtn{
+    width: 135px;
+    height: 43px;
+    padding: 12px, 28px, 12px, 28px;
+}
+
+
+
+
+.main-header-area a{
+    text-decoration: none;
+    color: #FD511A;
+}
+.main-header-area h2{
+    font-weight: 800;
+    margin: 10px 0 30px 0;
+}
+.main-header-area-text{
+    max-width: 405px;
+    margin: 140px 80px 63px 0;
+}
+.getStartedBtn{
+    width: 153px;
+    height: 43px;
+    padding: 12px, 28px, 12px, 28px;
+}
+.main-header-area img{
+    max-width: 554px;
+    height: 346px;
+}
+.header-img{
+    margin: 90px 0 73px 0;
+}
+
+
+
+
+.categories{
+    margin: 42px 0 100px 0;
+}
+.card{
+    width: 270px;
+    height: 270px;
+    border: 0px;
+    border-radius: 10px;
+    padding: 55px 0;
+}
+.card-color{
+    background-color: #F8FFFB;
+}
+.selected-card{
+    box-shadow: 1px 1px 3px gray;
+}
+.card img{
+    width: 80px;
+    height: 80px;
+}
